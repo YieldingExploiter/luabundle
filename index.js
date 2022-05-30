@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
   Lua Bundler using LuaCC
   Copyright (C) 2022  Yielding#3961

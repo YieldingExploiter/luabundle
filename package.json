@@ -1,1 +1,28 @@
-{"dependencies":{"execa":"^6.1.0","fs-extra":"^10.1.0","listr":"^0.14.3","yargs":"^17.5.1"},"devDependencies":{"@norathefurry/eslint-config":"^1.1.2","@types/fs-extra":"^9.0.13","@types/listr":"^0.14.4","eslint":"^8.16.0"}}
+{
+  "name": "luabundle",
+  "displayName": "LuaBundle",
+  "description": "A simple Lua Bundler, using LuaCC",
+  "version": "1.0.0",
+  "author": {
+    "name": "YieldingCoder"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^6.1.0",
+    "fs-extra": "^10.1.0",
+    "listr": "^0.14.3",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "@norathefurry/eslint-config": "^1.1.2",
+    "@types/fs-extra": "^9.0.13",
+    "@types/listr": "^0.14.4",
+    "eslint": "^8.16.0"
+  },
+  "bin": "index.js"
+}
