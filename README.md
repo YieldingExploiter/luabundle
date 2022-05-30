@@ -1,4 +1,4 @@
-# LuaBundle
+# LuaCCBundle
 
 Use LuaCC to bundle Lua files into a single file.
 
