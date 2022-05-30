@@ -1,0 +1,6 @@
+{
+  "extends": "@norathefurry",
+  "rules": {
+    "no-confusing-arrow": 0
+  }
+}
