@@ -1,6 +1,6 @@
 {
-  "name": "luabundle",
-  "displayName": "LuaBundle",
+  "name": "luaccbundle",
+  "displayName": "LuaCCBundle",
   "description": "A simple Lua Bundler, using LuaCC",
   "version": "1.0.0",
   "author": {

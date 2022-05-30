@@ -5,13 +5,13 @@ Use LuaCC to bundle Lua files into a single file.
 ## Installation
 
 ```bash
-pnpm i -g luabundle
+pnpm i -g luaccbundle
 ```
 
 ## Usage
 
 ```bash
-luabundle [directory: .] [index: init.lua] [output: bundle.lua]
+luaccbundle [directory: .] [index: init.lua] [output: bundle.lua]
 ```
 
 ### NOTICE
