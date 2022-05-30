@@ -12,6 +12,10 @@ luabundle [directory: .] [index: init.lua] [output: bundle.lua]
 
 This ships with it's own Lua version.
 
+You cannot require the index file.
+
+This does not perform tree shaking.
+
 ---
 
 Made with help from Mokiy
