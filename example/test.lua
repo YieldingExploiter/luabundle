@@ -1,0 +1,1 @@
+-- test is ignored by default, as test is designed to be used for CI/CD
